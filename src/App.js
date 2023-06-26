@@ -22,4 +22,12 @@ function App() {
   );
 }
 
-export default App;
+const Coba = () => {
+  return (
+    <>
+      <div className="font-bold">hai,testdoang</div>
+    </>
+  )
+}
+
+export default Coba ;
